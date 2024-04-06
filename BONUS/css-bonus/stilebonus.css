@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 5rem;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+}
+
+.box{
+    text-align: center;
+    padding: 23px;
+}
+
+.green{
+    background-color: #00E165;
+}
+
+.blu{
+    background-color: #006CFA;
+}
+.red{
+    background-color: #FF0000;
+}
+.pink{
+    background-color: #FCBCBC;
+}
+.white{
+    background-color: #F5EFF1;
+}
+.grey{
+    background-color: #D7C0CA;
+}
+.yellow{
+    background-color: #FFDB42;
+}
+.black{
+    background-color: #000000;
+}
+.orange{
+    background-color: #FC9A01;
+}
